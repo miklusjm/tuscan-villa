@@ -1,0 +1,72 @@
+﻿div.page-header {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: gray;
+    border-bottom: 0px;
+}
+
+div.jumbotron {
+    background-image: url('images/tuscany-villas-sant-anna.jpg');
+    height: 372px;
+    margin: 0px;
+    border: 2px solid white;
+    background-size: cover;
+}
+
+div.fill {
+    background-color: darkgray;
+    height: 372px;
+    margin: 0px;
+    padding: 5px;
+    background-size: cover;
+    border: 2px solid white;
+    overflow: hidden;
+    background-position: center;
+}
+
+#fill1 {
+    background-image: url('images/Villa-Vanna-231-348x348.jpg');
+}
+
+#fill2 {
+    background-image: url('images/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+}
+
+#fill3 {
+    background-image: url('images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+}
+#fill4 {
+    background-image: url('images/Versilia.jpg');
+}
+
+button.navbar-toggle {
+    border: 1px solid black;
+}
+
+span.icon-bar {
+    border: 1px solid black;
+}
+
+.navbar {
+    background-color: lightgray;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar li a {
+    color: green;
+    
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
